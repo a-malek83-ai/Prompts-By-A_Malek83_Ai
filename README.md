@@ -10,5 +10,6 @@
 |---|---|
 | تحويل الكتاب المدرسي إلى كتاب تفاعلي | [interactive-book-prompt](interactive-book-prompt) |
 | برومتات الموشن جرافيك | [motion-graphics-prompt](motion-graphics-prompt) |
+| استوديو الريلات الذكي (برومت ومهارة) | [ai-reel-studio](ai-reel-studio) |
 
 </div>
